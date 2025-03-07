@@ -21,7 +21,6 @@ This repository contains a Flask-based chatbot application that integrates OpenA
 5. **Prepare the PDF Document** Place the PDF file (e.g., hotel_chatbot.pdf) in the specified directory and update the pdf_path variable in the code.
    
 ### **Usage**
-```md
 1. Run the Flask App
    ```sh
    python app.py
