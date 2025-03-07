@@ -10,3 +10,7 @@ This repository contains a Flask-based chatbot application that integrates OpenA
 - Python 3.8
 - MongoDB instance (local or cloud-based)
 - OpenAI API key
+## Installation
+1. **Install Dependencies**
+   ```sh
+   pip install -r requirements.txt
