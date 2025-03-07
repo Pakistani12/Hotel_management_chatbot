@@ -1,1 +1,1 @@
-# Hotel_management_chatbot
+# Hotel Management Flask Chatbot with OpenAI and MongoDB and MySQL
