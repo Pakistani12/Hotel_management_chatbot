@@ -26,6 +26,14 @@ This repository contains a Flask-based chatbot application that integrates OpenA
    python app.py
 ## Project Structure
 
+   - Use triple backticks (```) with "plaintext" to maintain the formatting.
+- The "project-root/" represents the main directory.
+- Use "│--" before filenames to show that they are inside the main directory.
+- Use "└--" for the last file or folder to indicate the end of the structure.
+- Use "/" at the end of directory names to differentiate them from files.
+- Add comments after "#" to describe each file's purpose.
+- This format ensures proper rendering in Markdown viewers like GitHub and VS Code.
+
 
 
 
