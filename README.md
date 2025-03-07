@@ -33,6 +33,17 @@ This repository contains a Flask-based chatbot application that integrates OpenA
    "│-- hotel_chatbot.pdf "       # Example PDF document (replace with your own)
    "└-- README.md "               # Project documentation
 
+## Dependencies
+- Flask
+- Flask-CORS
+- python-dotenv
+- pymongo
+- langchain
+- FAISS
+- PyPDFLoader
+- OpenAI API
+
+
    
   
 
