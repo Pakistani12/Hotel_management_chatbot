@@ -49,7 +49,11 @@ This repository contains a Flask-based chatbot application that integrates OpenA
 - Check MongoDB connectivity using:
   ```sh
   mongo_client.admin.command("ping")
-
+  ```
+## **Acknowledgements**
+- [OpenAI](https://openai.com) for the GPT model
+- [MongoDB](https://www.mongodb.com) for the database
+- [LangChain](https://python.langchain.com) for document and chat management
 
    
   
