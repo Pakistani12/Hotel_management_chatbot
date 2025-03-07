@@ -6,3 +6,7 @@ This repository contains a Flask-based chatbot application that integrates OpenA
 - **MongoDB Integration:** Stores and retrieves chat history for personalized interactions.
 - **Session Management:** Supports unique user sessions for continuity.
 - **CORS Enabled:** Allows cross-origin resource sharing for integration with front-end applications.
+## Prerequisites
+- Python 3.8
+- MongoDB instance (local or cloud-based)
+- OpenAI API key
