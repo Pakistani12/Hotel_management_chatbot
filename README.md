@@ -25,8 +25,15 @@ This repository contains a Flask-based chatbot application that integrates OpenA
    ```sh
    python app.py
 ## Project Structure
-   ```"plaintext"
-   "project-root/"
+   ```"plaintext"  
+   project-root/
+   "│-- app.py"                   # Main Flask application
+   "│-- requirements.txt "        # Python dependencies
+   "│-- env/"                     # Environment variables (not included in repo)
+   "│-- hotel_chatbot.pdf "       # Example PDF document (replace with your own)
+   "└-- README.md "               # Project documentation
+
+   
   
 
 
