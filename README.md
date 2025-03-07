@@ -15,9 +15,10 @@ This repository contains a Flask-based chatbot application that integrates OpenA
    ```sh
    pip install -r requirements.txt
 4. **Set Environment Variables** Create a .env file in the root directory and add the following variables:
-  ```sh
-  OPENAI_API_KEY=your_openai_api_key
-  MONGODB_CONNECTION_STRING=your_mongodb_connection_string
+   ```sh
+   OPENAI_API_KEY=your_openai_api_key
+   MONGODB_CONNECTION_STRING=your_mongodb_connection_string
+5. **Prepare the PDF Document** Place the PDF file (e.g., hotel_chatbot.pdf) in the specified directory and update the pdf_path variable in the code.
 
 
 
