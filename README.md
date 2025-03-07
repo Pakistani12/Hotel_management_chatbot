@@ -43,6 +43,12 @@ This repository contains a Flask-based chatbot application that integrates OpenA
 - FAISS
 - PyPDFLoader
 - OpenAI API
+## **Troubleshooting**
+- Ensure that your OpenAI API key and MongoDB connection string are set correctly in the `.env` file.
+- Verify that the PDF file path is correct and the file exists.
+- Check MongoDB connectivity using:
+  ```sh
+  mongo_client.admin.command("ping")
 
 
    
