@@ -25,7 +25,8 @@ This repository contains a Flask-based chatbot application that integrates OpenA
    ```sh
    python app.py
 ## Project Structure
-
+   ```"plaintext"
+   "project-root/"
   
 
 
