@@ -14,3 +14,10 @@ This repository contains a Flask-based chatbot application that integrates OpenA
 1. **Install Dependencies**
    ```sh
    pip install -r requirements.txt
+
+### **6. Usage**
+```md
+## Usage
+1. Run the Flask App
+   ```sh
+   python app.py
